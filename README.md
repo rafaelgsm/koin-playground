@@ -8,6 +8,9 @@ gradle (app)
 dependencies {
     // Koin for Android
     implementation 'org.koin:koin-android:2.0.1'
+
+    //With ViewModel
+    implementation 'org.koin:koin-android-viewmodel:2.0.1'
 }
 ```
 
@@ -27,7 +30,11 @@ dependencies {
 
 6. Inject dependencies
 
+### ViewModel
 
+7. Create a ViewModel implementation (Instead of the presenter)
+
+8. Add the viewmodel to the modules
 
 ## Resources
 
