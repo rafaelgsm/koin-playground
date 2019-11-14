@@ -33,5 +33,6 @@ dependencies {
 	-Setup what modules will be available.
 
 6. Inject dependencies
+	-Now the Presenter initialization os completely decoupled from the Activity.
 
 
