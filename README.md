@@ -12,7 +12,7 @@ dependencies {
 ```
 
 
-### Sample without DI (v1)
+### Sample without DI [V1](https://github.com/rafaelgsm/koin-playground/tree/v1)
 
 1. Create a mock repository class
 
@@ -20,7 +20,7 @@ dependencies {
 
 3. Test the presenter in an Activity
 
-### With DI (v2)
+### With DI [V2](https://github.com/rafaelgsm/koin-playground/tree/v2)
 4. Create the Koin module
 
 5. Start Koin
